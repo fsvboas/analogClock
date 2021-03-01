@@ -8,7 +8,7 @@ Analog Clock
 
 ## 🧾 Sobre
 
-Um simples relógio analógico funcional que identifica o horário atual do usuário.
+Um simples relógio analógico funcional que identifica o horário atual do usuário. Este projeto foi realizado com o intuito de colocar em prática os estudos realizados e adquirir experiências com as tecnologias.
 
 ## 💻 Tecnologias utilizadas
 
